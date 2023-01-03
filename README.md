@@ -10,3 +10,5 @@ upload the changes to gitHub
 to learn where you are at
 ## cd /User/username/folderName
 go to where you want to be
+
+https://yjysquid.github.io/web/
