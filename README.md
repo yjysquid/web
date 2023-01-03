@@ -1,4 +1,4 @@
-# web
+# To upload the changes from terminal
 ## git add . 
 add all files in the folder
 ## git commit -m "your message"
