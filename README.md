@@ -12,3 +12,5 @@ to learn where you are at
 go to where you want to be
 
 https://yjysquid.github.io/web/
+
+<div> </div> is used mainly for design layout purposes 
