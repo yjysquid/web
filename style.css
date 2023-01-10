@@ -1,26 +1,32 @@
 /* Header */
-header {
-    width:1920px; max-width: 1920px;
+.header {
+    width:auto; max-width: 1920px;
+    height: auto;
     margin:auto;
+    background-color: brown;
 }
 .banner{
     height:50px; background-color: rgba(135, 246, 224,40%);
 }
 .headerL2 {
-    height: 100px; background-color: rgba(100,0,23,0.5);
+    height: fit-content; background-color: rgba(100,0,23,0.5);
 }
 .brand {
-    width:30%; height: 100px; background-color: rgba(135, 246, 224,40%);
+    width:auto; max-width: fit-content;
+    height: auto; max-height: fit-content;
+    background-color: rgba(135, 246, 224,40%);
 }
 .logo  {
-    width: 20%; height: 100px;
+    width: auto; max-width: fit-content;
+    height: auto; max-height: fit-content;
     background-color: rgba(83, 30, 148, 0.9);
 }
 
 .brandName {
-    width: 79%; height: 100px; 
-    background-color: rgba(24, 19, 17, 0.8); 
-    margin:auto auto;
+    width: auto; max-width: fit-content;
+    height: auto; max-height: fit-content;
+    background-color: rgba(25, 143, 57, 0.8); 
+    
 }
 
 .searchBar {
@@ -37,7 +43,7 @@ header {
 
 .menu {
     height:50px;
-    background-color: rgb(49, 159, 255);
+    background-color: rgba(49, 159, 255, 0.566);
 }
 
 
