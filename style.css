@@ -1,7 +1,9 @@
 /* Page */
-.page {
+body {
     width: auto; max-width: 1920px;
     margin: 0px auto;
+    background-color: #1b1c32;
+    color: #f5f6f7;
 }
 /* Header */
 .header {
